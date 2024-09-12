@@ -30,6 +30,7 @@ This project involves performing sentiment analysis on tweets using the Sentimen
 
 - **Training Accuracy**: 0.81018984375 %
 - **Testing Accuracy**: 0.77741875 %
+
 project link :https://colab.research.google.com/drive/1zQqOLLUpizC83XhQZ4fUdw7phu0zNq3l?usp=sharing
 
 The model was able to effectively classify tweets into positive and negative sentiments, with the accuracy indicating robust performance on both the training and testing datasets. 
